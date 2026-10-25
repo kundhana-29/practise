@@ -1,1 +1,1 @@
-Project Description: Student Registration System
+Project Description: Student Registration and Student Search System
