@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #eee;
+}
+
+input, button {
+    padding: 8px;
+    margin: 5px;
+}
+
+table {
+    margin: auto;
+    background: white;
+}
