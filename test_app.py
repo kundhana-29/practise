@@ -1,6 +1,6 @@
 import unittest
 from app import sum
-class test_sum(unitest.TestCase):
+class test_sum(unittest.TestCase):
     def test_sum(self):
         self.assertEqual(sum(10, 20), 30)
 
